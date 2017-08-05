@@ -1,5 +1,0 @@
-# Sequel Database Configuration
-
-development: "postgres://gaurav@localhost/roda_graphql"
-test: "postgres://gaurav@localhost/roda_graphql"
-production: "postgres://gaurav@localhost/roda_graphql"

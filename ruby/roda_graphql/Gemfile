@@ -7,7 +7,6 @@ end
 gem 'puma'
 gem 'roda'
 gem 'tilt'
-gem 'dotenv'
 
 # Graphql
 gem 'graphql'
@@ -15,7 +14,7 @@ gem 'graphql'
 # Database Stack
 gem 'sequel'
 gem 'sequel-seed'
-gem 'pg'
+gem 'sqlite3'
 gem 'colorize'
 
 # Protection :)
